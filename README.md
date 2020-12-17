@@ -25,21 +25,27 @@ I used scikit-learn to apply k-means clustering to Fisher’s famous Iris data s
 might be, and then explained how my model could be used to make predictions of species of iris. When this was complete I applied kNN (k Nearest Neighbours) to 
 Fisher’s famous Iris data set.
 
-
-<br></br>
 #### Repository contents
 - img - Contains two images used to demonstrate the consept of the square root function in task 1.
 - .gitignore - Text file that tells Git to ignore Python in this project
-- Emerging Technologies Tasks.ipynb - Contains all tasks done from 1 to 4
+- Emerging Technologies Tasks.ipynb - Contains all tasks from 1 to 4
 
 #### Software requirements
-1) Python
-2) Anaconda
-3) cmder
-4) Jupyter Notebook
 
-#### How to run
+The easiest way for a beginner to get started with Jupyter Notebooks is by installing Anaconda. Anaconda is the most widely used Python distribution for data science and comes pre-loaded with all the most popular libraries and tools.
+
+In order to run this project some software needs to be installed on your machine. These include...
+1) [Python](https://www.python.org/downloads/)
+2) [Anaconda](https://www.anaconda.com/products/individual)
+3) [cmder](https://cmder.net/)
+
+#### How to run fully
 - Clone repo
 - Create a new folder on destop
 - Cd into newly created folder in cmder & type "git clone (url here)"
 - Type "jupyter notebook" to open project in Jupyter Notebook
+- Click file with ".ipynb" at the end
+- Click "Kernel" & "Restard & run all" (all code cells & markdowns should have run and displayed after 1 minute)
+
+#### What to expect when running the code
+After running the code, jupyter notebook should print out the output of each code block underneath each code cell and also print writing from the markdown cells .
