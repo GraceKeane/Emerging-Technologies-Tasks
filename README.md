@@ -29,6 +29,7 @@ Fisher’s famous Iris data set.
 - img - Contains two images used to demonstrate the consept of the square root function in task 1.
 - .gitignore - Text file that tells Git to ignore Python in this project
 - Emerging Technologies Tasks.ipynb - Contains all tasks from 1 to 4
+- README.md - defines what each task was about, software requirements needed to run this project, steps on how to run and what to expect to see after you run the code.
 
 #### Software requirements
 
